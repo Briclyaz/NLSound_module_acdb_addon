@@ -8,3 +8,4 @@
 * ishtar - xiaomi 13 ultra
 * RE5C82L1 - realme 12 pro+
 * RE5465 - realme gt2 mee
+* PQ83A01 - ZTE Nubia Z60 ultra
